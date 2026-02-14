@@ -56,6 +56,7 @@ The project follows an end-to-end analytics pipeline:
 ## 📌 Outcome
 
 The system provides proactive risk detection and helps leadership take early corrective action instead of reacting after losses occur.
+Dashboard : ![Dashboard](dashboard/Dashboard%20image.png)
 
 
 ## 👤 Author
