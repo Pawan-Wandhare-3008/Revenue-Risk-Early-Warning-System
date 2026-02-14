@@ -2,9 +2,15 @@
 
 ## 🚀 Project Overview
 
-This project is an end-to-end Revenue Risk Early Warning System built using Python, SQL, and Power BI.
+The Revenue Risk Early Warning System is an end-to-end analytics project designed to proactively detect revenue leakage, operational instability, and escalating business risks before they significantly impact financial performance.
 
-The goal of the system is to detect revenue leakage and operational instability before it impacts financial performance.
+This project simulates a real-world enterprise environment and demonstrates how data can be transformed into early warning intelligence using:
+
+-Python (Data Simulation & Risk Scoring)
+
+-SQL (Risk Detection & Baseline Analysis)
+
+-Power BI (Executive Risk Intelligence Dashboard)
 
 
 ## 🎯 Business Objective
